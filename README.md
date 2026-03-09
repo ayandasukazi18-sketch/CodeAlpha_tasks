@@ -88,19 +88,6 @@ Petal Width = 0.2
 
 Predicted Species: Setosa
 
----
-
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/irisClassification.ipynb/codealpha_tasks.git
-
-Install required libraries:
-
-pip install -r requirements.txt
-
-Run the notebook to reproduce the results.
 
 ---
 
